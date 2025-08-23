@@ -1,2 +1,3 @@
-# Python_list_data_struct
-A python list data structure assignment.
+A python simple calculator project.
+This project performs various mathematical operation on two numbers in python
+
